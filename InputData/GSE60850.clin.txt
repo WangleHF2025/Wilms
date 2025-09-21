@@ -1,0 +1,37 @@
+title	tp53CNA	Clinical Trial	Pre-operative chemotherapy	Chemotherapy regimen	Age	Gender	Stage 	RFS.time	RFS	OS.time	OS	TP53 status	Number of copy number alterations
+GSM1489982	Normal	COG 	No 	EE4A 	110	Female 	I 	4	1	15	1	mutTP53 	18
+GSM1489995	Loss	SIOP 	Yes 	VCCD + RT 	54	Female 	III 	5	1	6	1	mutTP53 	N/A 
+GSM1489992	Loss	COG 	No 	I 	66	Female 	III 	5	1	18	1	mutTP53 	26
+GSM1490001	Loss	COG 	No 	EE4A 	44	Male 	I 	6	1	14	1	mutTP53 	50
+GSM1489997	Loss	COG 	No 	I 	62	Female 	II 	7	1	11	1	mutTP53 	58
+GSM1489986	Normal	COG 	No 	I 	43	Male 	II 	7	1	12	1	wtTP53 	47
+GSM1489983	Loss	COG 	No 	EE4A 	46	Female 	I 	7	1	96	0	mutTP53 	31
+GSM1490012	Loss	COG 	No 	EE4A 	44	Male 	I 	8	1	9	1	mutTP53 	32
+GSM1489994	Loss	SIOP 	Yes 	VCCD + RT 	85	Female 	III 	9	1	11	1	mutTP53 	62
+GSM1490004	Loss	COG 	No 	I 	93	Female 	III 	9	1	16	1	mutTP53 	42
+GSM1490009	Loss	COG 	No 	I 	94	Male 	IV 	11	1	11	1	mutTP53 	76
+GSM1490000	Loss	COG 	No 	I 	72	Female 	III 	12	1	25	1	mutTP53 	15
+GSM1490006	Loss	COG 	No 	I 	57	Male 	I 	16	1	24	1	mutTP53 	36
+GSM1490007	Normal	COG 	No 	I 	74	Male 	III 	17	1	22	1	wtTP53 	34
+GSM1489996	Normal	COG 	No 	I 	78	Female 	IV 	19	1	96	0	wtTP53 	46
+GSM1489980	Loss	COG 	No 	EE4A 	47	Female 	I 	96	0	96	0	mutTP53 	40
+GSM1489981	Loss	COG 	No 	EE4A 	99	Female 	I 	96	0	96	0	mutTP53 	54
+GSM1489984	Normal	COG 	No 	I 	27	Male 	II 	96	0	96	0	wtTP53 	42
+GSM1489985	Normal	COG 	No 	I 	56	Male 	II 	96	0	96	0	wtTP53 	56
+GSM1489987	Loss	COG 	No 	I 	44	Female 	II 	96	0	96	0	mutTP53 	7
+GSM1489988	Normal	COG 	No 	I 	72	Female 	III 	96	0	96	0	wtTP53 	6
+GSM1489989	Loss	COG 	No 	I 	17	Female 	III 	96	0	96	0	mutTP53 	36
+GSM1489990	Normal	COG 	No 	I 	49	Female 	III 	96	0	96	0	mutTP53 	N/A 
+GSM1489991	Normal	COG 	No 	I 	71	Female 	III 	96	0	96	0	wtTP53 	38
+GSM1489993	Normal	SIOP 	Yes 	VCCD + RT 	69	Female 	III 	96	0	96	0	wtTP53 	N/A 
+GSM1489998	Normal	COG 	No 	I 	51	Female 	IV 	96	0	96	0	wtTP53 	14
+GSM1489999	Loss	COG 	No 	I 	46	Female 	III 	96	0	96	0	mutTP53 	91
+GSM1490002	Normal	COG 	No 	I 	60	Female 	I 	96	0	96	0	wtTP53 	6
+GSM1490003	Loss	COG 	No 	I 	58	Female 	III 	96	0	96	0	mutTP53 	11
+GSM1490005	Normal	COG 	No 	EE4A 	36	Female 	I 	96	0	96	0	wtTP53 	23
+GSM1490008	Normal	COG 	No 	I 	56	Female 	II 	96	0	96	0	wtTP53 	23
+GSM1490010	Normal	COG 	No 	EE4A 	31	Female 	I 	96	0	96	0	wtTP53 	N/A 
+GSM1490011	Normal	COG 	No 	I 	53	Female 	IV 	96	0	96	0	wtTP53 	11
+GSM1490013	Loss	COG 	No 	I 	32	Male 	III 	96	0	96	0	mutTP53 	101
+GSM1490014	Normal	COG 	No 	I 	46	Female 	IV 	96	0	96	0	wtTP53 	0
+GSM1490015	Loss	SIOP 	Yes 	AVD 	41	Female 	I 	96	0	96	0	mutTP53 	64
